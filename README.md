@@ -32,12 +32,16 @@ compile 'com.crashlytics.android:crashlytics:1.+'
 debugCompile 'com.squareup.leakcanary:leakcanary-android:1.3.1'
 releaseCompile 'com.squareup.leakcanary:leakcanary-android-no-op:1.3.1'
 ```
+* [LayoutCast](https://github.com/mmin18/LayoutCast) - Cast android code and resource changes to the running application through ADB.
 
 ### Donations
 * [Donations](https://github.com/sufficientlysecure/donations)
 ```
 compile 'org.sufficientlysecure:donations:2.3'
 ```
+
+### Form validator
+* [Saripaar](https://github.com/ragunathjawahar/android-saripaar)
 
 ### Images
 * [Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader)
@@ -63,6 +67,7 @@ compile 'com.squareup.retrofit:retrofit:1.9.0'
 ```
 compile 'com.mcxiaoke.volley:library:1.0.+'
 ```
+* [Reactive Network](https://github.com/pwittchen/ReactiveNetwork) - Detect when network state changes using RXAndroid
 
 ### Time
 * [JodaTime]()
@@ -95,6 +100,7 @@ compile 'io.reactivex:rxandroid:1.0.0'
 
 ### Views
 * [Auto scale text view](https://stackoverflow.com/questions/5033012/auto-scale-textview-text-to-fit-within-bounds)
+* [CWAC-Merge](https://github.com/commonsguy/cwac-merge) - Combining rows (Static + Dynamic)
 * [PagerSlidingTabStrip](https://github.com/astuetz/PagerSlidingTabStrip)
 ```
 compile 'com.astuetz:pagerslidingtabstrip:1.0.1'
