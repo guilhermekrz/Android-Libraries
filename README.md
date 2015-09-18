@@ -5,6 +5,7 @@
 * [CommonsWare](https://github.com/commonsguy?tab=repositories)
 * [Square](https://github.com/square)
 * [Not quite related but I will put here anyway - Android Studio plugins](https://www.reddit.com/r/androiddev/comments/3ktqyb/what_are_some_of_your_musthave_plugins_for/)
+** Do you use Eclipse? No problem, you can find useful info [here](https://developer.android.com/sdk/index.html)
 * [Android Performance](https://github.com/Juude/awesome-android-performance)
 
 ### Android
