@@ -4,12 +4,17 @@
 * [Android-Arsenal](http://android-arsenal.com/)
 * [CommonsWare](https://github.com/commonsguy?tab=repositories)
 * [Square](https://github.com/square)
-* [Not quite related but I will put here anyway - Android Studio plugins](https://www.reddit.com/r/androiddev/comments/3ktqyb/what_are_some_of_your_musthave_plugins_for/)
-* [Check for plugin new versions](https://nullpointer.wtf/tools/keeping-your-dependencies-up-to-date/)
-* Do you use Eclipse? No problem, you can find useful info [here](https://developer.android.com/sdk/index.html)
 * [Android Performance](https://github.com/Juude/awesome-android-performance)
 * [Material-Animations](https://github.com/lgvalle/Material-Animations)
 * [Feature Graphic Generator](http://www.norio.be/android-feature-graphic-generator/)
+
+## [Plugins](https://www.reddit.com/r/androiddev/comments/3ktqyb/what_are_some_of_your_musthave_plugins_for/)
+* [Check for plugin new versions](https://nullpointer.wtf/tools/keeping-your-dependencies-up-to-date/)
+* Do you use Eclipse? No problem, you can find useful info [here](https://developer.android.com/sdk/index.html)
+* [CodeGlance](https://plugins.jetbrains.com/plugin/7275?pr=) - Embeds a code minimap similar to the one found in Sublime into the editor pane
+* [Folding](https://github.com/dmytrodanylyk/folding-plugin) - It can display your files as a group of different folders in project structure view
+* [Genymotion](https://www.genymotion.com/#!/) - Android emulator
+* [KeyPromoter](https://plugins.jetbrains.com/plugin/1003) - Shows to user how easy he can make same action using only keyboard(menus and toolbar button mouse clicks initiates shortcut display) 
 
 ### Android
 ```
