@@ -1,4 +1,5 @@
 # Android-Libraries
+[Check for dependencies new versions](https://nullpointer.wtf/tools/keeping-your-dependencies-up-to-date/)
 
 ## Where to find
 * [Android-Arsenal](http://android-arsenal.com/)
@@ -9,7 +10,6 @@
 * [Feature Graphic Generator](http://www.norio.be/android-feature-graphic-generator/)
 
 ## [Plugins](https://www.reddit.com/r/androiddev/comments/3ktqyb/what_are_some_of_your_musthave_plugins_for/)
-* [Check for plugin new versions](https://nullpointer.wtf/tools/keeping-your-dependencies-up-to-date/)
 * Do you use Eclipse? No problem, you can find useful info [here](https://developer.android.com/sdk/index.html)
 * [CodeGlance](https://plugins.jetbrains.com/plugin/7275?pr=) - Embeds a code minimap similar to the one found in Sublime into the editor pane
 * [Folding](https://github.com/dmytrodanylyk/folding-plugin) - It can display your files as a group of different folders in project structure view
