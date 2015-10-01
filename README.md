@@ -16,6 +16,9 @@
 * [Genymotion](https://www.genymotion.com/#!/) - Android emulator
 * [KeyPromoter](https://plugins.jetbrains.com/plugin/1003) - Shows to user how easy he can make same action using only keyboard(menus and toolbar button mouse clicks initiates shortcut display) 
 
+## Submit to Play Store
+* [AppScreenshotMaker](http://appscreenshotmaker.com/)
+
 ### Android
 ```
 compile 'com.android.support:appcompat-v7:22.2.0'
