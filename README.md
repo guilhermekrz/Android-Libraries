@@ -10,11 +10,18 @@
 * [Feature Graphic Generator](http://www.norio.be/android-feature-graphic-generator/)
 
 ## [Plugins](https://www.reddit.com/r/androiddev/comments/3ktqyb/what_are_some_of_your_musthave_plugins_for/)
+* [Configuring Android Studio](https://medium.com/@dmytrodanylyk/configuring-android-studio-4aa4f54f1153#.wg1ssmq4i)
+* [Automatic save Android Studio settings](https://github.com/develar/settings-repository)
 * Do you use Eclipse? No problem, you can find useful info [here](https://developer.android.com/sdk/index.html)
 * [CodeGlance](https://plugins.jetbrains.com/plugin/7275?pr=) - Embeds a code minimap similar to the one found in Sublime into the editor pane
 * [Folding](https://github.com/dmytrodanylyk/folding-plugin) - It can display your files as a group of different folders in project structure view
 * [Genymotion](https://www.genymotion.com/#!/) - Android emulator
 * [KeyPromoter](https://plugins.jetbrains.com/plugin/1003) - Shows to user how easy he can make same action using only keyboard(menus and toolbar button mouse clicks initiates shortcut display) 
+
+## Tutorials
+* [Build a Material Design App with the Android Design Support Library](http://www.code-labs.io/codelabs/material-design-style/index.html#0)
+* [Mastering the Coordinator Layout](http://saulmm.github.io/mastering-coordinator/)
+* 
 
 ## Submit to Play Store
 * [AppScreenshotMaker](http://appscreenshotmaker.com/)
