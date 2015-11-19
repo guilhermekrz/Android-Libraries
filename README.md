@@ -21,10 +21,6 @@
 ## Tutorials
 * [Build a Material Design App with the Android Design Support Library](http://www.code-labs.io/codelabs/material-design-style/index.html#0)
 * [Mastering the Coordinator Layout](http://saulmm.github.io/mastering-coordinator/)
-* 
-
-## Submit to Play Store
-* [AppScreenshotMaker](http://appscreenshotmaker.com/)
 
 ### Android
 ```
