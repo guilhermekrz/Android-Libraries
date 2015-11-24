@@ -8,6 +8,7 @@
 * [Android Performance](https://github.com/Juude/awesome-android-performance)
 * [Material-Animations](https://github.com/lgvalle/Material-Animations)
 * [Feature Graphic Generator](http://www.norio.be/android-feature-graphic-generator/)
+* [MaterialDoc](http://www.materialdoc.com/)
 
 ## [Plugins](https://www.reddit.com/r/androiddev/comments/3ktqyb/what_are_some_of_your_musthave_plugins_for/)
 * [Configuring Android Studio](https://medium.com/@dmytrodanylyk/configuring-android-studio-4aa4f54f1153#.wg1ssmq4i)
